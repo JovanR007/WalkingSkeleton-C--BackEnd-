@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PrD8UjG4uLfOi9aQPuiUpJ7WyeWYQCwIq1abUOF7HSM88A2bV/r4CDW+o5Cyg0syPi13YX/nnPkzd/52h1VG2w==",
+  "dgSpecHash": "JvaSHdegsQGvIgNeAfrneZXO5OmXYSEFREIqw58zqFAG4e/DHE7AyPCIiaprE6RnVWpqLPcYYN2PflmC402vPA==",
   "success": true,
-  "projectFilePath": "D:\\WalkingSkeleton\\API\\API.csproj",
+  "projectFilePath": "D:\\WalkingSkeleton\\WalkingSkeleton-C--BackEnd-\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jovan\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\jovan\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

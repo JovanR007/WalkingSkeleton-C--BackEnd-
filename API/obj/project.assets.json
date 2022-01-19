@@ -1944,11 +1944,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\WalkingSkeleton\\API\\API.csproj",
+      "projectUniqueName": "D:\\WalkingSkeleton\\WalkingSkeleton-C--BackEnd-\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "D:\\WalkingSkeleton\\API\\API.csproj",
+      "projectPath": "D:\\WalkingSkeleton\\WalkingSkeleton-C--BackEnd-\\API\\API.csproj",
       "packagesPath": "C:\\Users\\jovan\\.nuget\\packages\\",
-      "outputPath": "D:\\WalkingSkeleton\\API\\obj\\",
+      "outputPath": "D:\\WalkingSkeleton\\WalkingSkeleton-C--BackEnd-\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jovan\\AppData\\Roaming\\NuGet\\NuGet.Config",
